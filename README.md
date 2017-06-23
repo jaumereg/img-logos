@@ -14,9 +14,9 @@ To use those logos in your markdown file, just copy the text links below every l
 
     <a href="https://www.ecma-international.org/ecma-262/6.0/"><img src="https://github.com/jaumereg/img-logos/blob/master/logos/es6.png" width= "128px"></a>
 
-<a href="http://getbootstrap.com/"><img src="https://github.com/jaumereg/img-logos/blob/master/logos/boostrap.png" width= "128px"></a>
+<a href="http://getbootstrap.com/"><img src="https://github.com/jaumereg/img-logos/blob/master/logos/bootstrap.png" width= "128px"></a>
 
-    <a href="http://getbootstrap.com/"><img src="https://github.com/jaumereg/img-logos/blob/master/logos/boostrap.png" width= "128px"></a>
+    <a href="http://getbootstrap.com/"><img src="https://github.com/jaumereg/img-logos/blob/master/logos/bootstrap.png" width= "128px"></a>
 
 <a href="https://angularjs.org/"><img src="https://github.com/jaumereg/img-logos/blob/master/logos/angularjs.png" width= "128px"></a>
 
