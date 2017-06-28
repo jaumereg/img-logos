@@ -82,6 +82,9 @@ To use those logos in your markdown file, just copy the text links below every l
 
     <a href="https://www.sublimetext.com/"><img src="https://github.com/jaumereg/img-logos/blob/master/logos/sublimetext.png" width= "128px"></a>
 
+<a href="https://www.w3schools.com/html/html_responsive.asp"><img src="https://github.com/jaumereg/img-logos/blob/master/logos/responsive.png" width= "128px"></a>
+
+    <a href="https://www.w3schools.com/html/html_responsive.asp"><img src="https://github.com/jaumereg/img-logos/blob/master/logos/responsive.png" width= "128px"></a>
 ---  
 
 ##### To use the StandardJS Style logo on projects, the code must meet standards set in [standardjs.com](http://standardjs.com/)
